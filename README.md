@@ -1,3 +1,8 @@
+# FOR LEARNING AND SHARE WITH TEAM #
+# CREDIT : alexkappa #
+# PROTOTYPE : https://github.com/alexkappa/node-jira #
+
+
 # JIRA API wrapper for Node.JS
 
 A library for working with JIRA's RESTful API. No dependencies.
